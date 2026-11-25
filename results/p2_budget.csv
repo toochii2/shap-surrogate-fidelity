@@ -1,0 +1,11 @@
+target,check,rel_L1_vs_full_reference,wall_U_sign_agreement_%,slope_ratio_reduced_vs_full
+Tpeak_FF,"local reference, 20 dwellings x 8 permutations (2,080 runs)",0.005309361370269788,100.0,
+DH28_FF,"local reference, 20 dwellings x 8 permutations (2,080 runs)",0.018988220399540397,100.0,
+Tpeak_FF,"main effect of U_wall, 30 background cases (3,240 runs for 12 inputs)",,,1.0422323889188414
+Tpeak_FF,"main effect of U_roof, 30 background cases (3,240 runs for 12 inputs)",,,1.0240496124970866
+Tpeak_FF,"main effect of ACH, 30 background cases (3,240 runs for 12 inputs)",,,1.0347833568085107
+Tpeak_FF,"main effect of mass, 30 background cases (3,240 runs for 12 inputs)",,,0.9610118650533376
+DH28_FF,"main effect of U_wall, 30 background cases (3,240 runs for 12 inputs)",,,1.1567853673621449
+DH28_FF,"main effect of U_roof, 30 background cases (3,240 runs for 12 inputs)",,,1.1167736537070354
+DH28_FF,"main effect of ACH, 30 background cases (3,240 runs for 12 inputs)",,,1.1410451508887758
+DH28_FF,"main effect of mass, 30 background cases (3,240 runs for 12 inputs)",,,0.9904342755552432

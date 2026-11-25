@@ -1,0 +1,229 @@
+target,measure,source,seed,effect_mean
+Tpeak_FF,Wall insulation (U 0.30),EnergyPlus,-1,-0.9660191019717864
+Tpeak_FF,Roof insulation (U 0.20),EnergyPlus,-1,-2.0622227984359474
+Tpeak_FF,Airtightening (0.3 ach),EnergyPlus,-1,-0.8955983103206839
+Tpeak_FF,Solar-control glazing (SHGC 0.25),EnergyPlus,-1,-0.3763757833796092
+Tpeak_FF,Wall insulation (U 0.30),"LightGBM, all inputs",0,-0.6245494367321569
+Tpeak_FF,Roof insulation (U 0.20),"LightGBM, all inputs",0,-1.629334322030958
+Tpeak_FF,Airtightening (0.3 ach),"LightGBM, all inputs",0,-0.742155416168831
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"LightGBM, all inputs",0,-0.31338609214763125
+Tpeak_FF,Wall insulation (U 0.30),"MLP, all inputs",0,-0.9342640655226323
+Tpeak_FF,Roof insulation (U 0.20),"MLP, all inputs",0,-1.7968710487220798
+Tpeak_FF,Airtightening (0.3 ach),"MLP, all inputs",0,-0.8195723591050408
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"MLP, all inputs",0,-0.3317878958625504
+Tpeak_FF,Wall insulation (U 0.30),"Ridge, all inputs",0,-1.2359856467308994
+Tpeak_FF,Roof insulation (U 0.20),"Ridge, all inputs",0,-2.787895270233372
+Tpeak_FF,Airtightening (0.3 ach),"Ridge, all inputs",0,-1.2946781420287135
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"Ridge, all inputs",0,-0.4850399098828515
+Tpeak_FF,Wall insulation (U 0.30),"LightGBM, all inputs",1,-0.6351023506452246
+Tpeak_FF,Roof insulation (U 0.20),"LightGBM, all inputs",1,-1.4932319488381716
+Tpeak_FF,Airtightening (0.3 ach),"LightGBM, all inputs",1,-0.8512286359971009
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"LightGBM, all inputs",1,-0.29592789621201604
+Tpeak_FF,Wall insulation (U 0.30),"MLP, all inputs",1,-1.2005109704526546
+Tpeak_FF,Roof insulation (U 0.20),"MLP, all inputs",1,-2.019199080113423
+Tpeak_FF,Airtightening (0.3 ach),"MLP, all inputs",1,-0.9693336851324277
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"MLP, all inputs",1,-0.3329697129697966
+Tpeak_FF,Wall insulation (U 0.30),"Ridge, all inputs",1,-1.1686814541367205
+Tpeak_FF,Roof insulation (U 0.20),"Ridge, all inputs",1,-2.7486572692479556
+Tpeak_FF,Airtightening (0.3 ach),"Ridge, all inputs",1,-1.301790055921303
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"Ridge, all inputs",1,-0.47422580790837254
+Tpeak_FF,Wall insulation (U 0.30),"LightGBM, all inputs",2,-0.7106232662548148
+Tpeak_FF,Roof insulation (U 0.20),"LightGBM, all inputs",2,-1.5946166062823393
+Tpeak_FF,Airtightening (0.3 ach),"LightGBM, all inputs",2,-0.8447962325865882
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"LightGBM, all inputs",2,-0.3261060076264117
+Tpeak_FF,Wall insulation (U 0.30),"MLP, all inputs",2,-0.8640116790897525
+Tpeak_FF,Roof insulation (U 0.20),"MLP, all inputs",2,-2.1374136574571594
+Tpeak_FF,Airtightening (0.3 ach),"MLP, all inputs",2,-1.1486897385626813
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"MLP, all inputs",2,-0.3444067421722922
+Tpeak_FF,Wall insulation (U 0.30),"Ridge, all inputs",2,-1.2568495555281056
+Tpeak_FF,Roof insulation (U 0.20),"Ridge, all inputs",2,-2.764539817354087
+Tpeak_FF,Airtightening (0.3 ach),"Ridge, all inputs",2,-1.314172890996268
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"Ridge, all inputs",2,-0.47506274734213827
+Tpeak_FF,Wall insulation (U 0.30),"LightGBM, mass omitted",0,0.22708830727434295
+Tpeak_FF,Roof insulation (U 0.20),"LightGBM, mass omitted",0,-0.6143690389516204
+Tpeak_FF,Airtightening (0.3 ach),"LightGBM, mass omitted",0,-0.3476331455916889
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"LightGBM, mass omitted",0,-0.35893134815425887
+Tpeak_FF,Wall insulation (U 0.30),"MLP, mass omitted",0,0.4289783489462857
+Tpeak_FF,Roof insulation (U 0.20),"MLP, mass omitted",0,-0.9363933840856196
+Tpeak_FF,Airtightening (0.3 ach),"MLP, mass omitted",0,-0.559824562891456
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"MLP, mass omitted",0,-0.25050340124690057
+Tpeak_FF,Wall insulation (U 0.30),"Ridge, mass omitted",0,0.4135481839376189
+Tpeak_FF,Roof insulation (U 0.20),"Ridge, mass omitted",0,-1.3548764212968303
+Tpeak_FF,Airtightening (0.3 ach),"Ridge, mass omitted",0,-0.8130127332651021
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"Ridge, mass omitted",0,-0.4357563988771027
+Tpeak_FF,Wall insulation (U 0.30),"LightGBM, mass omitted",1,0.20101119567013356
+Tpeak_FF,Roof insulation (U 0.20),"LightGBM, mass omitted",1,-0.8126285196880926
+Tpeak_FF,Airtightening (0.3 ach),"LightGBM, mass omitted",1,-0.344882895835352
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"LightGBM, mass omitted",1,-0.29772250188556476
+Tpeak_FF,Wall insulation (U 0.30),"MLP, mass omitted",1,0.43643588045774967
+Tpeak_FF,Roof insulation (U 0.20),"MLP, mass omitted",1,-0.9441250064287757
+Tpeak_FF,Airtightening (0.3 ach),"MLP, mass omitted",1,-0.5232453184594856
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"MLP, mass omitted",1,-0.26181425802700226
+Tpeak_FF,Wall insulation (U 0.30),"Ridge, mass omitted",1,0.5015348669095276
+Tpeak_FF,Roof insulation (U 0.20),"Ridge, mass omitted",1,-1.3482735704391429
+Tpeak_FF,Airtightening (0.3 ach),"Ridge, mass omitted",1,-0.8789370010591585
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"Ridge, mass omitted",1,-0.44729763329590383
+Tpeak_FF,Wall insulation (U 0.30),"LightGBM, mass omitted",2,0.032995772436445706
+Tpeak_FF,Roof insulation (U 0.20),"LightGBM, mass omitted",2,-0.75242635919587
+Tpeak_FF,Airtightening (0.3 ach),"LightGBM, mass omitted",2,-0.497476436989568
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"LightGBM, mass omitted",2,-0.3599411252356315
+Tpeak_FF,Wall insulation (U 0.30),"MLP, mass omitted",2,0.07160132146038599
+Tpeak_FF,Roof insulation (U 0.20),"MLP, mass omitted",2,-0.5745353948680875
+Tpeak_FF,Airtightening (0.3 ach),"MLP, mass omitted",2,-0.5110860716262402
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"MLP, mass omitted",2,-0.3108676468260759
+Tpeak_FF,Wall insulation (U 0.30),"Ridge, mass omitted",2,0.3587368453334077
+Tpeak_FF,Roof insulation (U 0.20),"Ridge, mass omitted",2,-1.2603846001018566
+Tpeak_FF,Airtightening (0.3 ach),"Ridge, mass omitted",2,-0.8832101435174531
+Tpeak_FF,Solar-control glazing (SHGC 0.25),"Ridge, mass omitted",2,-0.4337714893452174
+DH28_FF,Wall insulation (U 0.30),EnergyPlus,-1,-2.382399644426466
+DH28_FF,Roof insulation (U 0.20),EnergyPlus,-1,-5.305517635855186
+DH28_FF,Airtightening (0.3 ach),EnergyPlus,-1,-2.1828297991713193
+DH28_FF,Solar-control glazing (SHGC 0.25),EnergyPlus,-1,-0.9841350049663038
+DH28_FF,Wall insulation (U 0.30),"LightGBM, all inputs",0,-1.7633633449675201
+DH28_FF,Roof insulation (U 0.20),"LightGBM, all inputs",0,-3.8494583604928545
+DH28_FF,Airtightening (0.3 ach),"LightGBM, all inputs",0,-1.8610852194649141
+DH28_FF,Solar-control glazing (SHGC 0.25),"LightGBM, all inputs",0,-0.8492971198465252
+DH28_FF,Wall insulation (U 0.30),"MLP, all inputs",0,-1.8961962105540855
+DH28_FF,Roof insulation (U 0.20),"MLP, all inputs",0,-4.566205442781593
+DH28_FF,Airtightening (0.3 ach),"MLP, all inputs",0,-2.2839287375210007
+DH28_FF,Solar-control glazing (SHGC 0.25),"MLP, all inputs",0,-0.9598304368886096
+DH28_FF,Wall insulation (U 0.30),"Ridge, all inputs",0,-3.152258241651704
+DH28_FF,Roof insulation (U 0.20),"Ridge, all inputs",0,-6.552557912066676
+DH28_FF,Airtightening (0.3 ach),"Ridge, all inputs",0,-3.03055226809258
+DH28_FF,Solar-control glazing (SHGC 0.25),"Ridge, all inputs",0,-1.1459650821438563
+DH28_FF,Wall insulation (U 0.30),"LightGBM, all inputs",1,-1.6357835210702616
+DH28_FF,Roof insulation (U 0.20),"LightGBM, all inputs",1,-3.533805312865169
+DH28_FF,Airtightening (0.3 ach),"LightGBM, all inputs",1,-1.9933010273636322
+DH28_FF,Solar-control glazing (SHGC 0.25),"LightGBM, all inputs",1,-0.7771476162047165
+DH28_FF,Wall insulation (U 0.30),"MLP, all inputs",1,-3.621086630925005
+DH28_FF,Roof insulation (U 0.20),"MLP, all inputs",1,-4.8502218804034625
+DH28_FF,Airtightening (0.3 ach),"MLP, all inputs",1,-2.585565288184439
+DH28_FF,Solar-control glazing (SHGC 0.25),"MLP, all inputs",1,-1.0237680952241817
+DH28_FF,Wall insulation (U 0.30),"Ridge, all inputs",1,-2.796007581721594
+DH28_FF,Roof insulation (U 0.20),"Ridge, all inputs",1,-6.843369099458559
+DH28_FF,Airtightening (0.3 ach),"Ridge, all inputs",1,-3.023049725827258
+DH28_FF,Solar-control glazing (SHGC 0.25),"Ridge, all inputs",1,-1.123328045813602
+DH28_FF,Wall insulation (U 0.30),"LightGBM, all inputs",2,-1.6089126977911676
+DH28_FF,Roof insulation (U 0.20),"LightGBM, all inputs",2,-3.5814071177495954
+DH28_FF,Airtightening (0.3 ach),"LightGBM, all inputs",2,-2.206076222273397
+DH28_FF,Solar-control glazing (SHGC 0.25),"LightGBM, all inputs",2,-0.7211663289922319
+DH28_FF,Wall insulation (U 0.30),"MLP, all inputs",2,-2.0297958717258022
+DH28_FF,Roof insulation (U 0.20),"MLP, all inputs",2,-5.1775435644386345
+DH28_FF,Airtightening (0.3 ach),"MLP, all inputs",2,-2.747866196734228
+DH28_FF,Solar-control glazing (SHGC 0.25),"MLP, all inputs",2,-0.7829270595499456
+DH28_FF,Wall insulation (U 0.30),"Ridge, all inputs",2,-3.2969659330844237
+DH28_FF,Roof insulation (U 0.20),"Ridge, all inputs",2,-6.601343737486154
+DH28_FF,Airtightening (0.3 ach),"Ridge, all inputs",2,-3.0138011342008624
+DH28_FF,Solar-control glazing (SHGC 0.25),"Ridge, all inputs",2,-1.1823072336743004
+DH28_FF,Wall insulation (U 0.30),"LightGBM, mass omitted",0,0.2975801168767262
+DH28_FF,Roof insulation (U 0.20),"LightGBM, mass omitted",0,-2.4782472553906167
+DH28_FF,Airtightening (0.3 ach),"LightGBM, mass omitted",0,-1.1496096529443829
+DH28_FF,Solar-control glazing (SHGC 0.25),"LightGBM, mass omitted",0,-0.9479091398820931
+DH28_FF,Wall insulation (U 0.30),"MLP, mass omitted",0,1.9241275119299694
+DH28_FF,Roof insulation (U 0.20),"MLP, mass omitted",0,-2.0291207220826086
+DH28_FF,Airtightening (0.3 ach),"MLP, mass omitted",0,-0.6969481798708749
+DH28_FF,Solar-control glazing (SHGC 0.25),"MLP, mass omitted",0,-0.6857777930806079
+DH28_FF,Wall insulation (U 0.30),"Ridge, mass omitted",0,0.5935315645313768
+DH28_FF,Roof insulation (U 0.20),"Ridge, mass omitted",0,-3.299831492627726
+DH28_FF,Airtightening (0.3 ach),"Ridge, mass omitted",0,-1.9376877124138465
+DH28_FF,Solar-control glazing (SHGC 0.25),"Ridge, mass omitted",0,-1.034190933205259
+DH28_FF,Wall insulation (U 0.30),"LightGBM, mass omitted",1,0.2596599899348645
+DH28_FF,Roof insulation (U 0.20),"LightGBM, mass omitted",1,-2.4723370090596077
+DH28_FF,Airtightening (0.3 ach),"LightGBM, mass omitted",1,-0.8619805377838733
+DH28_FF,Solar-control glazing (SHGC 0.25),"LightGBM, mass omitted",1,-0.6963145003256471
+DH28_FF,Wall insulation (U 0.30),"MLP, mass omitted",1,-0.24095388670228363
+DH28_FF,Roof insulation (U 0.20),"MLP, mass omitted",1,-2.2790799296548894
+DH28_FF,Airtightening (0.3 ach),"MLP, mass omitted",1,0.09080472012900356
+DH28_FF,Solar-control glazing (SHGC 0.25),"MLP, mass omitted",1,-0.5807480696630424
+DH28_FF,Wall insulation (U 0.30),"Ridge, mass omitted",1,1.0603499863228554
+DH28_FF,Roof insulation (U 0.20),"Ridge, mass omitted",1,-3.605078823316773
+DH28_FF,Airtightening (0.3 ach),"Ridge, mass omitted",1,-2.047019955764565
+DH28_FF,Solar-control glazing (SHGC 0.25),"Ridge, mass omitted",1,-1.0611204962579506
+DH28_FF,Wall insulation (U 0.30),"LightGBM, mass omitted",2,0.25206441085108033
+DH28_FF,Roof insulation (U 0.20),"LightGBM, mass omitted",2,-2.274348510336799
+DH28_FF,Airtightening (0.3 ach),"LightGBM, mass omitted",2,-1.5072615674930288
+DH28_FF,Solar-control glazing (SHGC 0.25),"LightGBM, mass omitted",2,-1.0622686000917694
+DH28_FF,Wall insulation (U 0.30),"MLP, mass omitted",2,0.37074027748555527
+DH28_FF,Roof insulation (U 0.20),"MLP, mass omitted",2,-2.4378195189661573
+DH28_FF,Airtightening (0.3 ach),"MLP, mass omitted",2,-1.5426865051785077
+DH28_FF,Solar-control glazing (SHGC 0.25),"MLP, mass omitted",2,-0.6364032154100766
+DH28_FF,Wall insulation (U 0.30),"Ridge, mass omitted",2,0.4610197327135831
+DH28_FF,Roof insulation (U 0.20),"Ridge, mass omitted",2,-3.1049509245315967
+DH28_FF,Airtightening (0.3 ach),"Ridge, mass omitted",2,-2.0128096098823085
+DH28_FF,Solar-control glazing (SHGC 0.25),"Ridge, mass omitted",2,-1.0862852925167588
+E_cool_kWh,Wall insulation (U 0.30),EnergyPlus,-1,-7212.431214740675
+E_cool_kWh,Roof insulation (U 0.20),EnergyPlus,-1,-11754.62453571753
+E_cool_kWh,Airtightening (0.3 ach),EnergyPlus,-1,-19451.61296176855
+E_cool_kWh,Solar-control glazing (SHGC 0.25),EnergyPlus,-1,-2563.6881842956313
+E_cool_kWh,Wall insulation (U 0.30),"LightGBM, all inputs",0,-6300.520622831562
+E_cool_kWh,Roof insulation (U 0.20),"LightGBM, all inputs",0,-8068.381727683766
+E_cool_kWh,Airtightening (0.3 ach),"LightGBM, all inputs",0,-21396.448593814646
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"LightGBM, all inputs",0,-2217.8295230095155
+E_cool_kWh,Wall insulation (U 0.30),"MLP, all inputs",0,-8476.631900153814
+E_cool_kWh,Roof insulation (U 0.20),"MLP, all inputs",0,-11168.468396541257
+E_cool_kWh,Airtightening (0.3 ach),"MLP, all inputs",0,-17947.84603809235
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"MLP, all inputs",0,-2162.4279799347555
+E_cool_kWh,Wall insulation (U 0.30),"Ridge, all inputs",0,-7005.74207631802
+E_cool_kWh,Roof insulation (U 0.20),"Ridge, all inputs",0,-11229.67472006543
+E_cool_kWh,Airtightening (0.3 ach),"Ridge, all inputs",0,-19531.130056660233
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"Ridge, all inputs",0,-2299.639745696081
+E_cool_kWh,Wall insulation (U 0.30),"LightGBM, all inputs",1,-5417.550859607362
+E_cool_kWh,Roof insulation (U 0.20),"LightGBM, all inputs",1,-8807.47081535273
+E_cool_kWh,Airtightening (0.3 ach),"LightGBM, all inputs",1,-22042.39240825052
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"LightGBM, all inputs",1,-1947.3523558662873
+E_cool_kWh,Wall insulation (U 0.30),"MLP, all inputs",1,-7728.008876326778
+E_cool_kWh,Roof insulation (U 0.20),"MLP, all inputs",1,-11261.867392200778
+E_cool_kWh,Airtightening (0.3 ach),"MLP, all inputs",1,-19473.711032018527
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"MLP, all inputs",1,-2149.2707883918647
+E_cool_kWh,Wall insulation (U 0.30),"Ridge, all inputs",1,-6697.067138379461
+E_cool_kWh,Roof insulation (U 0.20),"Ridge, all inputs",1,-11463.167989693085
+E_cool_kWh,Airtightening (0.3 ach),"Ridge, all inputs",1,-19438.595167771353
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"Ridge, all inputs",1,-2309.130423092958
+E_cool_kWh,Wall insulation (U 0.30),"LightGBM, all inputs",2,-6569.697118519452
+E_cool_kWh,Roof insulation (U 0.20),"LightGBM, all inputs",2,-8940.293009326851
+E_cool_kWh,Airtightening (0.3 ach),"LightGBM, all inputs",2,-21038.777017199547
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"LightGBM, all inputs",2,-1978.3978411248747
+E_cool_kWh,Wall insulation (U 0.30),"MLP, all inputs",2,-7743.416661682019
+E_cool_kWh,Roof insulation (U 0.20),"MLP, all inputs",2,-12493.038324755624
+E_cool_kWh,Airtightening (0.3 ach),"MLP, all inputs",2,-17886.885648185693
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"MLP, all inputs",2,-2281.643351256331
+E_cool_kWh,Wall insulation (U 0.30),"Ridge, all inputs",2,-6976.735414038779
+E_cool_kWh,Roof insulation (U 0.20),"Ridge, all inputs",2,-11427.279998932941
+E_cool_kWh,Airtightening (0.3 ach),"Ridge, all inputs",2,-19471.755781579053
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"Ridge, all inputs",2,-2273.0477632072193
+E_cool_kWh,Wall insulation (U 0.30),"LightGBM, mass omitted",0,-6305.53222203937
+E_cool_kWh,Roof insulation (U 0.20),"LightGBM, mass omitted",0,-10718.638433126484
+E_cool_kWh,Airtightening (0.3 ach),"LightGBM, mass omitted",0,-22882.383963820903
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"LightGBM, mass omitted",0,-1741.1656745709815
+E_cool_kWh,Wall insulation (U 0.30),"MLP, mass omitted",0,-9941.642225700512
+E_cool_kWh,Roof insulation (U 0.20),"MLP, mass omitted",0,-15573.50610215487
+E_cool_kWh,Airtightening (0.3 ach),"MLP, mass omitted",0,-19787.26250099418
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"MLP, mass omitted",0,-2241.6365927852185
+E_cool_kWh,Wall insulation (U 0.30),"Ridge, mass omitted",0,-9150.186943435187
+E_cool_kWh,Roof insulation (U 0.20),"Ridge, mass omitted",0,-13049.060398641699
+E_cool_kWh,Airtightening (0.3 ach),"Ridge, mass omitted",0,-20130.92639401619
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"Ridge, mass omitted",0,-2362.191068247556
+E_cool_kWh,Wall insulation (U 0.30),"LightGBM, mass omitted",1,-7836.472046217838
+E_cool_kWh,Roof insulation (U 0.20),"LightGBM, mass omitted",1,-10831.625983957005
+E_cool_kWh,Airtightening (0.3 ach),"LightGBM, mass omitted",1,-22264.78409431765
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"LightGBM, mass omitted",1,-1739.9278754615773
+E_cool_kWh,Wall insulation (U 0.30),"MLP, mass omitted",1,-8776.068589947146
+E_cool_kWh,Roof insulation (U 0.20),"MLP, mass omitted",1,-12375.69623622279
+E_cool_kWh,Airtightening (0.3 ach),"MLP, mass omitted",1,-19693.264929783985
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"MLP, mass omitted",1,-2096.0555215409577
+E_cool_kWh,Wall insulation (U 0.30),"Ridge, mass omitted",1,-8966.683577685213
+E_cool_kWh,Roof insulation (U 0.20),"Ridge, mass omitted",1,-13336.506466213228
+E_cool_kWh,Airtightening (0.3 ach),"Ridge, mass omitted",1,-20005.862990855807
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"Ridge, mass omitted",1,-2345.2325749098272
+E_cool_kWh,Wall insulation (U 0.30),"LightGBM, mass omitted",2,-6901.692865873417
+E_cool_kWh,Roof insulation (U 0.20),"LightGBM, mass omitted",2,-10654.464027183396
+E_cool_kWh,Airtightening (0.3 ach),"LightGBM, mass omitted",2,-22441.60965822659
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"LightGBM, mass omitted",2,-1635.6323849455855
+E_cool_kWh,Wall insulation (U 0.30),"MLP, mass omitted",2,-8504.368041136486
+E_cool_kWh,Roof insulation (U 0.20),"MLP, mass omitted",2,-14422.311532636913
+E_cool_kWh,Airtightening (0.3 ach),"MLP, mass omitted",2,-18078.416165080365
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"MLP, mass omitted",2,-2561.195944234117
+E_cool_kWh,Wall insulation (U 0.30),"Ridge, mass omitted",2,-9043.562678332242
+E_cool_kWh,Roof insulation (U 0.20),"Ridge, mass omitted",2,-13309.32089110577
+E_cool_kWh,Airtightening (0.3 ach),"Ridge, mass omitted",2,-19998.4351541515
+E_cool_kWh,Solar-control glazing (SHGC 0.25),"Ridge, mass omitted",2,-2324.4979747132993
