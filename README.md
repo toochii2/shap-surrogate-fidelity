@@ -1,6 +1,6 @@
 # SHAP explanations of building-simulation surrogates: code and data
 
-Code and simulation results for the manuscript "Omitted-variable bias in SHAP explanations of building-simulation surrogates: a ground-truth test for overheating during power cuts".
+Code and simulation results for the manuscript "Accurate but misleading: testing explainable AI for building-simulation surrogates against EnergyPlus ground truth".
 
 ## Contents
 
