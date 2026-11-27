@@ -2,6 +2,8 @@
 
 Code and simulation results for the manuscript "Accurate but misleading: testing explainable AI for building-simulation surrogates against EnergyPlus ground truth".
 
+Author: Ali Alsayegh, Department of Design, Manufacturing and Engineering Management, University of Strathclyde, Glasgow, United Kingdom (a.alsayegh@strath.ac.uk, ORCID [0000-0001-7083-3639](https://orcid.org/0000-0001-7083-3639)).
+
 ## Contents
 
 ```
